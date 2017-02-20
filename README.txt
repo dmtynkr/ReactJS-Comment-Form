@@ -1,1 +1,0 @@
- Inspired from video: https://css-tricks.com/video-screencasts/147-starting-react-powered-comment-form/
